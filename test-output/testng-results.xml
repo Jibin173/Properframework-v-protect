@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-04T07:30:39Z" name="Default suite" finished-at="2022-04-04T07:32:24Z" duration-ms="105215">
+    <groups>
+    </groups>
+    <test started-at="2022-04-04T07:30:39Z" name="Default test" finished-at="2022-04-04T07:32:24Z" duration-ms="105215">
+      <class name="testcases.LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:testcases.LoginTest@455b6df1]" started-at="2022-04-04T13:00:39Z" name="setUp" finished-at="2022-04-04T13:02:06Z" duration-ms="86796" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.LoginTest.loginwithvalidcred()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginwithvalidcred()[pri:0, instance:testcases.LoginTest@455b6df1]" started-at="2022-04-04T13:02:06Z" name="loginwithvalidcred" finished-at="2022-04-04T13:02:12Z" duration-ms="6667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvalidcred -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginTest@455b6df1]" started-at="2022-04-04T13:02:12Z" name="tearDown" finished-at="2022-04-04T13:02:24Z" duration-ms="11727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
