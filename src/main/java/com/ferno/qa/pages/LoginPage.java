@@ -56,7 +56,7 @@ public class LoginPage extends TestBase{
 			System.out.println("After handling the alert");
 		}else {
 			System.out.println("No alert present");
-			String url=prop.getProperty("url");
+			
 			
 		}
 		
